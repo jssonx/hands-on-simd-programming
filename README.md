@@ -24,5 +24,6 @@ Certainly, keeping the "Getting Started" section concise while making it a bit m
 2. **Work Through the Chapters**: Once the repository is cloned, navigate through its contents and follow the instructions provided in each chapter. These chapters are designed to sequentially build your understanding and skills in SIMD programming.
 
 ## Reference Material
- - [Intel Intrinsics Guide](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html)
- - [SIMD Instructions from CMU 18-613](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s19/www/lectures613/04-simd.pdf)
+ - [Intel Intrinsics Guide](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html): The official guide for Intel SIMD intrinsics, detailing function usage, syntax, and optimization.
+ - [SIMD Instructions from CMU 18-613](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s19/www/lectures613/04-simd.pdf): A comprehensive overview of SIMD instruction utilization from CMU.
+ - [Simplified SIMD Intrinsics Wrapper](https://gist.github.com/jssonx/85c1561321009e4b41eebfd68b1941ce): A header file providing a clearer abstraction for SIMD intrinsics to enhance code readability and ease of use.
