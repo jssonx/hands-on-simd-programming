@@ -4,12 +4,6 @@
 #include <limits>
 #include <math.h>
 
-/*
- * Compile and run with:
- * g++ -mavx2 -mfma main.cpp -o main
- * ./main
-*/
-
 
 int main() {
 

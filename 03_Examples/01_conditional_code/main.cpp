@@ -12,10 +12,6 @@
  * Focus:
  * - Showcases SIMD's efficiency in conditional operations for large data sets.
  * - Illustrates use of SIMD masks for selective data manipulation.
- * 
- * Compile and run with:
- * g++ -mavx2 -mfma main.cpp -o main
- * ./main
  */
 
 int main() {
